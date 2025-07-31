@@ -1,0 +1,75 @@
+.Shoes:hover{
+    transform: scale(1.1);
+    transition: 0.6s;
+}
+
+.Shoes {
+    border: 1px solid #ccc;
+    width: 350px;
+    height: 450px;
+    margin-left: 2rem;
+    border: 1px solid rgb(225, 216, 195);
+    margin-top: 1rem;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 1rem;
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 3rem;
+    box-shadow: 0px 0px 10px 0px black;
+}
+
+.Shoes>img {
+    width: fit-content;
+    height: 250px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.Shoes>p{
+  font-size: 25px;
+  margin-top: 10px;
+}
+.Shoes>h1 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.card-item {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 3rem;
+    background-color: rgb(225, 216, 195);
+}
+.add-to-cart {
+    margin-top: 10px;
+    /* background-color: #fff; */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+.h1>h1{
+  margin-top: 40px;
+  margin-bottom: -20px;
+  font-size: 45px;
+}
+.h1>hr {
+    margin-top: 25px;
+    width: 90%;
+    margin-left: 5%;
+    border: 1px solid black;
+}
+.image-link {
+  display: block;        
+  width: fit-content;    
+  text-decoration: none; 
+}  
+
+.image-link img {
+  width: 100%;          
+  height: auto;
+  display: block;        
+}

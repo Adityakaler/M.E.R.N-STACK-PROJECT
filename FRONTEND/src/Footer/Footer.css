@@ -1,0 +1,172 @@
+    .footer{
+        width: 100%;
+        height: 730px;
+        margin-top: -50px;
+        background-color: black;
+    }
+    .footerheading{
+        color:  rgb(234, 225, 204);
+        text-align: center;
+        margin-top: 0px;
+        padding-top: 52px;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .footerheading p{
+     margin-top: 30px;
+    }
+    .emailbox{
+        height: 40px;
+        width: 300px;
+        font-size: 15px;
+        margin-top: 10px;
+        border-radius: 10px;
+        background-color:  rgb(234, 225, 204);;
+        /* box-shadow: 0px 0px 10px 0px white; */
+    }
+    .button{
+        height: 45px;
+        width: 100px;  
+        font-size: 15px;
+        background-color: #c9bf9d;
+        border-radius: 10px;
+        /* box-shadow: 0px 0px 10px 0px white; */
+    }
+    .footermain{
+        display: flex;
+        flex-direction: row;
+        color:  rgb(234, 225, 204);
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        justify-content: center;
+    }
+    .footerbox1{
+        width: 25%;
+        text-align: center;
+        justify-content: center;
+    }
+    .footerbox1>h3
+    {
+        color: white;
+       justify-content: center;
+       text-align: center;
+    }
+    .footerbox2{
+        width: 25%;
+        line-height: 1.8;
+        justify-content: center;
+    }
+    .footerbox2>h3
+    {
+        color:white;
+    }
+    .footerbox3{
+        width: 25%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        line-height: 1.8;
+    }
+    .footerbox3>h3
+    {
+        color: white;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .footerbox4{
+        
+        width: 25%;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        line-height: 1.8;
+    }
+    .footerbox4>h3
+    {
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .contact{
+        display: flex;
+        flex-direction: row;
+    }
+    .contactbox1{
+        width: 50%;
+        color:  rgb(234, 225, 204);
+        text-align: center;
+        justify-content: center;
+    }
+    .contactbox2{
+        width: 50%;
+        margin-top: 40px;
+        color:  rgb(234, 225, 204);
+        text-align: center;
+    }
+    .footerend{
+        color: rgb(234, 225, 204);
+        text-align: center;
+        margin-top: 20px;
+    }
+    .footerend>p>span{
+        font-size: 20px;
+    }
+    .sale
+    {
+         color:  rgb(234, 225, 204);
+    }
+    
+    
+    
+    /* .arrowleft
+    {
+        margin-top: 250px;
+        margin-right: 10px;
+    }
+    .arrowleft:hover
+    {
+        font-size: 25px;   
+    }    
+    .arrowright
+    {
+        margin-top: 250px; 
+        margin-left: 10px;
+    }
+    .arrowright:hover
+    {
+        font-size: 25px;   
+    }   */
+    
+    
+    .topup1
+    {
+        width: 50px;
+        height: 50px;    
+        position: absolute;  
+        bottom: 4%;
+        left: 95%;
+        position: fixed;
+        display: grid; 
+    }
+
+
+    .topup{
+        
+        height: 50px;
+        width: 50px;
+        border: 2px solid black;
+        border-radius: 15px; 
+        z-index: -1;
+        scroll-behavior: smooth;
+        box-shadow: 0px 0px 10px 0px black;
+
+    }
+    .topup:hover {
+  background-color: orangered;
+  transform: translateY(-5px) scale(1.05); 
+  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.4);
+}

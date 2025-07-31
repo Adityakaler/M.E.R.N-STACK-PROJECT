@@ -1,0 +1,19 @@
+image{
+     width: 100%;
+     max-width: 100px; /* increase this value */
+     height: 100px;    /* increase this value */
+     object-fit: cover;
+     border-radius: 8px;
+     margin-bottom: 12px;
+     background: #f7f7f7;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,107 @@
+[
+{
+    "image": "https://cdn.pixabay.com/photo/2017/03/16/22/19/jeans-2150408_1280.jpg",
+    "user id ":1,
+    "id": 1,
+    "title": "Shoes",
+    "price": 48,
+    "description": "Latest Added."
+    
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2021/10/11/18/56/shoes-6701631_1280.jpg",
+    "user id ":2,
+    "id": 2,
+    "title": "Shoes",
+    "price": 45,
+    "description": "New Stock."
+    
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2021/10/11/18/56/shoes-6701631_1280.jpg",
+    "user id ":3,
+    "id": 3,
+    "title": "Shoes",
+    "price": 52,
+    "description": "This is a yellow shoes by nike"
+  },
+  
+{
+    "image":"https://cdn.pixabay.com/photo/2017/09/15/13/28/black-shoes-2752226_1280.jpg",
+    "user id ":4,
+    "id": 4,
+    "title": "Shoes",
+    "price": 35,
+    "description": "This is a suitable shoes for you"
+},
+{
+    "image":"https://cdn.pixabay.com/photo/2017/09/15/13/28/black-shoes-2752226_1280.jpg",
+    "user id ":5,
+    "id": 5,
+    "title": "Shoes",
+    "price":40,
+    "description": "This is a suitable shoes for party"
+},
+{
+    "image":"https://cdn.pixabay.com/photo/2022/07/20/11/59/leather-shoes-7334030_1280.jpg",
+    "user id ":6,
+    "id": 6,
+    "title": "Shoes",
+    "price":45,
+    "description": "This is a suitable shoes for office"
+},
+{
+    "image":"https://cdn.pixabay.com/photo/2016/12/15/12/12/shoes-1908733_1280.jpg",
+    "user id ":7,
+    "id": 7,
+    "title": "Shoes",
+    "price":55,
+    "description": "Leather Shoes"
+},
+{
+    "image":"https://cdn.pixabay.com/photo/2021/11/28/20/01/walking-boots-6831103_1280.jpg",
+    "user id ":8,
+    "id": 8,
+    "title": "Shoes",
+    "price":50,
+    "description": "Walking boots"
+},
+{
+    "image":"https://cdn.pixabay.com/photo/2015/03/24/18/11/childrens-shoes-687959_1280.jpg",
+    "user id ":9,
+    "id": 9,
+    "title": "Shoes",
+    "price":45,
+    "description": "Childeren Shoes"
+},
+{
+    "image":"https://cdn.pixabay.com/photo/2020/05/04/07/15/nike-5128118_1280.jpg",
+    "user id ":10,
+    "id": 10,
+    "title": "Shoes",
+    "price":45,
+    "description": "Nike Sport Shoes"
+},
+{   
+    "image":"https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg",
+    "user id ":11,
+    "id": 11,
+    "title": "Shoes",
+    "price": 48,
+    "description": "This is a black shoes by nike"
+
+},
+
+{
+    "image":"https://cdn.pixabay.com/photo/2020/05/04/07/15/nike-5128118_1280.jpg", 
+    "user id ":12,
+    "id": 12,
+    "title": "Shoes",
+    "price": 52,
+    "description": "This is a yellow shoes by nike"
+}
+]
+
+
+
+
